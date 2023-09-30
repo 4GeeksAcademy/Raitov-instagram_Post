@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: black;
+    min-height: 100vh;
+}
+.post {
+    font-family:'Roboto', sans-serif;
+    background: white;
+}
+.header {
+    display:flex;
+    padding: 5px;       
+}
+.html5_icon {
+    margin-top: 30px;
+    margin-right: 5px;
+}
+.h2 {
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin-left: -70px;
+}
+.rigoberto {
+    margin-top: 40px;
+    margin-left: 10px;
+}
+.menu {
+    margin-top: 25px;
+    margin-left: 355px;
+}
+
+.icon_box {
+    display: flex;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.bookmark {
+    margin-left: 355px;
+}
+.text_box {
+    width: 450px;
+    padding: 5px;
+}
